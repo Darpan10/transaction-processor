@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <TransactionList>
+<Transaction type="C" amount="52.14" narration="Social security payment" />
+<Transaction type="D" amount="52.14" narration="Social security payment" />
+ 
+</TransactionList>
+ 
